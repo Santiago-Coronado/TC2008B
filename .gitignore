@@ -209,3 +209,4 @@ __marimo__/
 .env
 agents_requirements.txt
 .agents
+node_modules/
